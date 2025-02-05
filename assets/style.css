@@ -1,0 +1,14 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+.card___navbar{
+    height: 123px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.card___logo-img-cont{
+    height: 100%;
+    width: 20
+}
